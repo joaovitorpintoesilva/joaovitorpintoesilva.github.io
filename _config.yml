@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "Página principal de alguém também conhecido como JV"
+title                    : "JV"
 title_separator          : "-"
 name                     : &name "João Vitor Pinto e Silva"
 description              : &description ""
