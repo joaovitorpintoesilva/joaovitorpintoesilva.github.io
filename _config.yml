@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "A Homepage from someone known as JV"
+locale                   : "pt-BR"
+title                    : "Página principal de alguém também conhecido como JV"
 title_separator          : "-"
 name                     : &name "João Vitor Pinto e Silva"
 description              : &description ""
-url                      : https://jvpintoesilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joaovitorpintoesilva.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "João Vitor Pinto e Silva (JV)"
   pronouns         : # example: "she/her"  
-  bio              : "Hopefully a good teacher and researcher."
+  bio              : "Alguém que talvez saiba um pouco de matemática."
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
