@@ -4,10 +4,10 @@ main:
     url: https://joaovitorpintoesilva.github.io/
 
   - title: "Artigos"
-    url: /publications/
+    url: /artigos/
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  #- title: "Ensino"
+   # url: /ensino/    
     
   - title: "Outros links"
     url: /outros/
