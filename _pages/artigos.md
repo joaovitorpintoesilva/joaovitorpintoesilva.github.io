@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Artigos"
-permalink: artigos/
+permalink: /artigos/
 author_profile: true
 ---
 
