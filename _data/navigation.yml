@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Main Page"
-    url: https://jvpintoesilva.github.io/
+  - title: "Início"
+    url: https://joaovitorpintoesilva.github.io/
 
-  - title: "Publications"
+  - title: "Artigos"
     url: /publications/
 
   #- title: "Teaching"
@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Currículo Lattes"
     url: http://lattes.cnpq.br/7931559004112832
     
-  - title: "PT-BR"
-    url: /Pt-Br/
+  - title: "English"
+    url: https://jvpintoesilva.github.io/
