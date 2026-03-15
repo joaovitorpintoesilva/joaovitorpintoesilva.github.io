@@ -6,8 +6,8 @@ main:
   - title: "Artigos"
     url: artigos/
 
-  #- title: "Ensino"
-   # url: /ensino/    
+  - title: "Aulas"
+    url: aulas/    
     
   - title: "Outros links"
     url: outros/
