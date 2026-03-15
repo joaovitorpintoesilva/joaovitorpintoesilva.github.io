@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Aulas"
-permalink: /calculo/
 permalink: /aulas/
+redirect_from: /calculo/
 author_profile: true
 ---
 
