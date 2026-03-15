@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Aulas"
-sitemap: calculo
+sitemap: /calculo
 permalink: /aulas/
 author_profile: true
 ---
